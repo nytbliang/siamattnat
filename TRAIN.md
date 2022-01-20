@@ -1,4 +1,4 @@
-# PySOT SiamAttnAT Tutorial
+# SiamAttnAT Tutorial
 
 This implements training of SiamAttnAT with backbone architectures, such as ResNet, AlexNet.
 ### Add SiamAttnAT to your PYTHONPATH
