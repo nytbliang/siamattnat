@@ -1,9 +1,9 @@
-# PySOT Training Tutorial
+# PySOT SiamAttnAT Tutorial
 
 This implements training of SiamAttnAT with backbone architectures, such as ResNet, AlexNet.
-### Add PySOT to your PYTHONPATH
+### Add SiamAttnAT to your PYTHONPATH
 ```bash
-export PYTHONPATH=/path/to/pysot:$PYTHONPATH
+export PYTHONPATH=/path/to/siamattnat:$PYTHONPATH
 ```
 
 ## Prepare training dataset
