@@ -1,6 +1,6 @@
 # PySOT Training Tutorial
 
-This implements training of SiamRPN with backbone architectures, such as ResNet, AlexNet.
+This implements training of SiamAttnAT with backbone architectures, such as ResNet, AlexNet.
 ### Add PySOT to your PYTHONPATH
 ```bash
 export PYTHONPATH=/path/to/pysot:$PYTHONPATH
@@ -18,7 +18,7 @@ Download pretrained backbones from [Google Drive](https://drive.google.com/drive
 
 ## Training
 
-To train a model (SiamRPN++), run `train.py` with the desired configs:
+To train a model (SiamAttnAT), run `train.py` with the desired configs:
 
 ```bash
 cd experiments/siamrpn_r50_l234_dwxcorr_8gpu
